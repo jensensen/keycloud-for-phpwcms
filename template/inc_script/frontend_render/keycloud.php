@@ -203,7 +203,7 @@ function make_kwcloud($kwmatches) {
 	$allkeywds = stripped_cache_content($allkeywds);
 
 	//delete not wantend and then str_all to lower
-	if(seems_utf8($allkeywds)) {
+	if(phpwcms_seems_utf8($allkeywds)) {
 		$allkeywds = strtolower_utf8_keywd(str_replace($kwconf['kcl_del_signs'],'',$allkeywds));
 	} else {
 		$allkeywds = strtolower(str_replace($kwconf['kcl_del_signs'],'',$allkeywds));
