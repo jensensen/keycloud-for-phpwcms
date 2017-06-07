@@ -30,7 +30,7 @@ Author
 Copyright and license
 ---------------------
 
-Copyright 2008–2015 jensensen
+Copyright 2008–2017 jensensen
 
 This work - **keycloud for phpwcms** by jensensen (jbr/LH/DE) - is
 licensed under the GNU General Public License, Version 2 (the "License");

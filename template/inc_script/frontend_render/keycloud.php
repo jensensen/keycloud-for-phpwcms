@@ -2,7 +2,7 @@
 /******************************************************************
 * KeyCloud v1.7 for phpwcms --> v.1.3.3 + and later
 *
-* Date: Mar. 30, 2009 by Jensensen
+* Date: Mar. 30, 2009 by Jensensen // Copyright 2008–2017 Jensensen
 * --> RTFM: http://forum.phpwcms.org/viewtopic.php?f=8&t=17884
 *
 * Script returns <div class>KeyWordCloud here</div> only on pages where
